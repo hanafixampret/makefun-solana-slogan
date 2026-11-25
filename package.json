@@ -1,0 +1,1 @@
+{"description":"One-line slogan for a Solana wallet agent — make.fun bounty entry","license":"MIT","main":"main.ts","name":"makefun-solana-slogan","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
